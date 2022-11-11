@@ -235,7 +235,7 @@
         &-paragraph {
             font-family: $font-joseFinSans;
             font-size: 30px;
-            margin-bottom: 30px;
+            margin-bottom: 32px;
             @include textStyles(capitalize);
 
             @media (max-width: 900px) {
@@ -273,8 +273,8 @@
 
             @media (max-width: 900px) {
                 font-size: 12px;
-                width: 130px;
-                height: 30px;
+                width: 132px;
+                height: 32px;
         
             }
 
